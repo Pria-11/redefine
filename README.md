@@ -30,15 +30,6 @@ The project focuses on immersive UI design, smooth animations, responsive layout
 
 ---
 
-
-## Preview
-
-<a href="https://your-live-demo-link.com">
-  <img src="./img/thumbnail.png" alt="RE-DEFINE Website"/>
-</a>
-
----
-
 ## Folder Structure
 
 ```bash
