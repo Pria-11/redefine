@@ -1,18 +1,49 @@
-
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN" target="_blank">
-  <img src="./img/thumbnail.png" alt="Thumbnail"/>
+<a href="https://your-live-demo-link.com" target="_blank">
+  <img src="./img/thumbnail.png" alt="ReDefine Preview"/>
 </a>
 
+# RE-DEFINE
+
+A modern futuristic gaming-inspired landing page built using HTML, CSS, and JavaScript.  
+The project focuses on immersive UI design, smooth animations, responsive layouts, and visually engaging user interactions.
 
 ---
-## Introduction: 
-#### 🚀 Build a Modern Gaming Website with HTML , CSS and JS 🌟
 
-#### Unleash your creativity and build an Awwwards-Winning Gaming Website using just HTML, CSS, and JavaScript! This step-by-step tutorial will guide you through crafting a modern web design that captivates with scroll animations, parallax effects, and smooth scrolling. Master CSS Grid and Flexbox to create a responsive layout, while integrating stunning text gradients, hover effects, and neon aesthetics for that perfect dark theme. Learn how to optimize animation keyframes, add interactive elements, and implement CSS transitions for a seamless user experience (UX). With tips on media queries, cross-browser compatibility, and SEO optimization, you’ll craft a visually stunning, minimalist UI inspired by Awwwards standards. Whether you're showcasing a gaming portfolio or exploring creative coding, this tutorial is your gateway to modern web development success!
+## Features
 
+- Modern dark-themed gaming UI
+- Responsive design for desktop and mobile
+- Smooth scrolling experience
+- Interactive hover animations
+- Clean navigation layout
+- Video-based visual sections
+- Modern typography and visual aesthetics
+- Optimized layout using Flexbox and CSS positioning
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN">
-  <img src="./img/youtube-ligo.png" alt="youtube"/>
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+
+## Preview
+
+<a href="https://your-live-demo-link.com">
+  <img src="./img/thumbnail.png" alt="RE-DEFINE Website"/>
 </a>
+
+---
+
+## Folder Structure
+
+```bash
+img/
+videos/
+index.html
+style.css
+app.js
